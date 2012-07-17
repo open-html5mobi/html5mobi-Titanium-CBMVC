@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!-- general message -->
+	<string id="discussions">讨 论</string>
+	<string id="category">分 类</string>
+	<string id="about">关 于</string>
+	<string id="search">搜 索</string>
+	<string id="back">返 回</string>
+	<string id="home">首 页</string>
+	<string id="discussionTitle">讨论区帖子(点此改变语言)</string>
+	<string id="categoryTitle">社区分类</string>
+	<string id="aboutTitle">关于此Demo</string>
+	
+	<!-- error message -->
+	<string id="error">错误</string>
+	<string id="norecord">没有记录</string>
+	<string id="timeout">超时了！</string>	
+	<string id="unknowError">未知错误</string>
+</root>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!-- general message -->
+	<string id="discussions">Discussions</string>
+	<string id="category">Category</string>
+	<string id="about">About</string>
+	<string id="search">Search</string>
+	<string id="back">Back</string>
+	<string id="home">Home</string>
+	<string id="discussionTitle">Post of discussion(Click to switch language)</string>
+	<string id="categoryTitle">Category</string>
+	<string id="aboutTitle">About this demo</string>
+	
+	<!-- error message -->
+	<string id="error">Error</string>
+	<string id="norecord">No record</string>
+	<string id="timeout">Time out！</string>	
+	<string id="unknowError">Unknow Error!</string>
+</root>
