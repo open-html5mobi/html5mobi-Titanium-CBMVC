@@ -3,7 +3,7 @@ html5mobi-Titanium-CBMVC
 
 #### 项目介绍 ####
 
-该项目由Winson开发，数据来自 <a href="html5mobi.com">移动Web开发社区</a> 开放接口，总体基于 CBMVC 框架。
+该项目由Winson开发，并捐献给移动Web开发社区。项目数据来自 <a href="html5mobi.com">移动Web开发社区</a> 开放接口，总体基于 CBMVC 框架。
 目的是向大家演示了 CBMVC的基本使用方法，方便大家更容易地开发出自己的移动应用 :)
 
 ### 关于移动Web开发社区 ###
