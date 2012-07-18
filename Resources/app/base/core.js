@@ -285,8 +285,11 @@ Ti.include('/app/base/lib.js');
 		//remove existing view at first
 		for (var viewIndex in CB.mainView.children) {
 			if (CB.mainView.children[viewIndex].name == controller.view.name) {
+				var currChildren = CB.mainView.children.length;
 				CB.mainView.remove(CB.mainView.children[viewIndex]);
-				CB.mainView.children[viewIndex] = null;
+				if(currChildren > 1){
+					CB.mainView.children[viewIndex] = null;
+				}
 			}
 		}
 
