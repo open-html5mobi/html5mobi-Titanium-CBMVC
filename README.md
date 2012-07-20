@@ -11,7 +11,7 @@ html5mobi-Titanium-CBMVC
 移动Web开发社区专注移动Web和跨平台移动开发研究，以开放、分享为建站宗旨。目前提供资源有：
 
 * 社区官网 http://www.html5mobi.com
-* Sencha Touch开源项目 https://github.com/open-html5mobi/html5mobi-SenchaTouch
+* Sencha Touch开源项目 https://github.com/open-html5mobi/HTML5MOBI.COM-SenchaTouch
 * Titanium Mobile开源项目 https://github.com/open-html5mobi/html5mobi-Titanium-CBMVC
 * jQuery Mobile开源项目
 
